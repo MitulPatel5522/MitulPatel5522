@@ -1,6 +1,6 @@
 <h1 align="center"> Hi There 👋 </h1>
 
-- 🔭 I’m currently working on [Airbnb Amenity Detection](https://github.com/MitulPatel5522/Airbnb-Website)
+- 🔭 I’m currently working on [Podcast Summarization App]
 - 🌱 I’m currently learning TypeScript
 - 💬 Ask me about React, UI/UX, Firebase
 - 📫 How to reach me: [Mitul Patel](https://www.linkedin.com/in/mitul-patel5522/)
